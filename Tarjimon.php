@@ -1,6 +1,6 @@
 <?php
 date_default_timezone_set("asia/Dushanbe");
-$token = ('5722308387:AAG6ip1S4GJDCAV4T8KEPQJ56x6J3V_IGbY');
+$token = ('5889018869:AAHVGA1UFEcSuwZj37H9YaSwwJFPLkmfzAo');
 $admin = ("5273786010");
 
 #Ushbu kod @veb_code firdavs jurayev tomondan dasturlandi #
